@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "A@124",
+      "name": "snehal",
+      "photo": "https://th.bing.com/th/id/OIP.8F97-4tTe0kDw2M0XktW8gAAAA?w=170&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "contact": "8989888989",
+      "email": "snehal@gmail.com",
+      "title": "soft engg",
+      "company": "infosys",
+      "group": "2"
+    },
+    {
+      "id": "A@125",
+      "name": "sonal",
+      "photo": "https://th.bing.com/th/id/OIP.VSIVV3b5Nblo7gM7N4x9zgHaHZ?w=170&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "contact": "8989898999",
+      "email": "sonal@gmail.com",
+      "title": "soft engg",
+      "company": "TCS",
+      "group": "3"
+    },
+    {
+      "id": "A@126",
+      "name": "gaurav",
+      "photo": "https://th.bing.com/th/id/OIP.YdkNhFNLUQ_NN3gZir70pQHaHZ?w=140&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "contact": "5559898989",
+      "email": "gaurav@gmail.com",
+      "title": "soft engg",
+      "company": "TCS",
+      "group": "4"
+    },
+    {
+      "id": "A@127",
+      "name": "sayli",
+      "photo": "https://th.bing.com/th/id/OIP.d10bJfLNBMzUH40-OkrwAAHaI8?w=136&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "contact": "8988788989",
+      "email": "sayli@gmail.com",
+      "title": "soft engg",
+      "company": "TCS",
+      "group": "5"
+    },
+    {
+      "id": "ca4f",
+      "name": "pratiksha",
+      "photo": "https://th.bing.com/th/id/OIP.8F97-4tTe0kDw2M0XktW8gAAAA?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "contact": "07689054321",
+      "email": "pratiksha@gmail.com",
+      "title": "soft dev",
+      "company": "tcs",
+      "group": ""
+    },
+    {
+      "id": "0a1f",
+      "name": "harshal",
+      "photo": "https://th.bing.com/th?id=OIP.Wzs6r1QBO0PR26tPE25KoQHaH_&w=240&h=259&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+      "contact": "9090909090",
+      "email": "harsh22@gmail.com",
+      "title": "Comp Application",
+      "company": "HCL",
+      "group": ""
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "family"
+    },
+    {
+      "id": "2",
+      "name": "friend"
+    },
+    {
+      "id": "3",
+      "name": "collegue"
+    },
+    {
+      "id": "4",
+      "name": "college"
+    },
+    {
+      "id": "5",
+      "name": "school"
+    },
+    {
+      "id": "6",
+      "name": "social"
+    }
+  ]
+}
